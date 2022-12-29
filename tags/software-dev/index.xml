@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>NightNoon</title>
-    <link>https://nightnoon.org/</link>
-    <description>Recent content on NightNoon</description>
+    <title>software dev on NightNoon</title>
+    <link>https://nightnoon.org/tags/software-dev/</link>
+    <description>Recent content in software dev on NightNoon</description>
     <image>
       <url>https://nightnoon.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://nightnoon.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Dec 2022 10:39:35 -0800</lastBuildDate><atom:link href="https://nightnoon.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 10:39:35 -0800</lastBuildDate><atom:link href="https://nightnoon.org/tags/software-dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Inception of This Blog</title>
       <link>https://nightnoon.org/posts/inception/</link>
@@ -20,7 +20,6 @@
       <description>Welcome, I am using this blog to explore my interests. Anything that excites me enough to keep me up into the wee hours tinkering is fare play for the blog. Hence the title NightNoon, as in &amp;ldquo;Should I go to bed? No! It&amp;rsquo;s barely night noon.&amp;rdquo;
 The site is built using Hugo which will serve as the first topic to explore for the blog. I&amp;rsquo;m taking a page from Simon Willison who has suggested blogging in bite size chunks and starting with TIL posts.</description>
     </item>
-    
     
   </channel>
 </rss>
