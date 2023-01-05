@@ -10,7 +10,27 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Dec 2022 10:39:35 -0800</lastBuildDate><atom:link href="https://nightnoon.org/tags/software-dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 09:02:59 -0800</lastBuildDate><atom:link href="https://nightnoon.org/tags/software-dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technical Utility Bookmarks</title>
+      <link>https://nightnoon.org/posts/tech-bookmarks/</link>
+      <pubDate>Thu, 29 Dec 2022 09:02:59 -0800</pubDate>
+      
+      <guid>https://nightnoon.org/posts/tech-bookmarks/</guid>
+      <description>Technical Utility Bookmarks These are some utility pages I keep bookmarked as technical references when developing. I&amp;rsquo;m going to treat this like an Awesome List, so it will be a work in progress as I add more bookmarks.
+Crontab Guru The crontab guru takes the guesswork out of crontab schedules: crontab guru. Paste in an existing schedule you are debugging or check out the example page for suggestions that might be useful for a new schedule.</description>
+    </item>
+    
+    <item>
+      <title>Boredjar</title>
+      <link>https://nightnoon.org/posts/boredjar/</link>
+      <pubDate>Wed, 28 Dec 2022 18:40:55 -0800</pubDate>
+      
+      <guid>https://nightnoon.org/posts/boredjar/</guid>
+      <description>Bored Jar The bored jar is something my daughter and I made and is intended to address the complaining of children in a constructive way. My daughter is 6, but I think this idea works for kids 5-10. Very young kids love to play with the cards if they&amp;rsquo;re laminated too.
+The best part about about jar is that it is the first bored activity. Next time your kid is bored on a rainy day sit them down in front of this site and have them make the game.</description>
+    </item>
+    
     <item>
       <title>The Inception of This Blog</title>
       <link>https://nightnoon.org/posts/inception/</link>

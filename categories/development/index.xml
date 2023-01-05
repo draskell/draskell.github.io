@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Dec 2022 10:39:35 -0800</lastBuildDate><atom:link href="https://nightnoon.org/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 09:02:59 -0800</lastBuildDate><atom:link href="https://nightnoon.org/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technical Utility Bookmarks</title>
+      <link>https://nightnoon.org/posts/tech-bookmarks/</link>
+      <pubDate>Thu, 29 Dec 2022 09:02:59 -0800</pubDate>
+      
+      <guid>https://nightnoon.org/posts/tech-bookmarks/</guid>
+      <description>Technical Utility Bookmarks These are some utility pages I keep bookmarked as technical references when developing. I&amp;rsquo;m going to treat this like an Awesome List, so it will be a work in progress as I add more bookmarks.
+Crontab Guru The crontab guru takes the guesswork out of crontab schedules: crontab guru. Paste in an existing schedule you are debugging or check out the example page for suggestions that might be useful for a new schedule.</description>
+    </item>
+    
     <item>
       <title>The Inception of This Blog</title>
       <link>https://nightnoon.org/posts/inception/</link>
