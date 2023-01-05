@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on NightNoon</title>
-    <link>https://nightnoon.org/posts/</link>
-    <description>Recent content in Posts on NightNoon</description>
+    <title>software dev on NightNoon</title>
+    <link>https://nightnoon.org/categories/software-dev/</link>
+    <description>Recent content in software dev on NightNoon</description>
     <image>
       <url>https://nightnoon.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://nightnoon.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Dec 2022 09:02:59 -0800</lastBuildDate><atom:link href="https://nightnoon.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 09:02:59 -0800</lastBuildDate><atom:link href="https://nightnoon.org/categories/software-dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Technical Utility Bookmarks</title>
       <link>https://nightnoon.org/posts/tech-bookmarks/</link>
