@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>music on NightNoon</title>
+    <link>https://nightnoon.org/categories/music/</link>
+    <description>Recent content in music on NightNoon</description>
+    <image>
+      <url>https://nightnoon.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://nightnoon.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Jan 2023 20:10:37 -0800</lastBuildDate><atom:link href="https://nightnoon.org/categories/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bass Permutations Exercise</title>
+      <link>https://nightnoon.org/posts/bass-permutations/</link>
+      <pubDate>Fri, 06 Jan 2023 20:10:37 -0800</pubDate>
+      
+      <guid>https://nightnoon.org/posts/bass-permutations/</guid>
+      <description>Bass Permutations Exercise This is a left hand four finger exercise to train all of the left hand inter-finger permutations. The idea is to assign a finger to each fret and go through each of the 24 possible permutations. Start slowly then build up the speed, but keep it rhythmic, see how fast you can go. The trick to going faster is mastering slower speeds though.
+It&amp;rsquo;s a pretty great warm up because it gets all of the fingers involved.</description>
+    </item>
+    
+  </channel>
+</rss>
