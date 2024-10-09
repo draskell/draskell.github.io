@@ -48,7 +48,16 @@ The best part about about jar is that it is the first bored activity. Next time 
       
       <guid>https://nightnoon.org/posts/inception/</guid>
       <description>Welcome, I am using this blog to explore my interests. Anything that excites me enough to keep me up into the wee hours tinkering is fare play for the blog. Hence the title NightNoon, as in &amp;ldquo;Should I go to bed? No! It&amp;rsquo;s barely night noon.&amp;rdquo;
-The site is built using Hugo which will serve as the first topic to explore for the blog. I&amp;rsquo;m taking a page from Simon Willison who has suggested blogging in bite size chunks and starting with TIL posts.</description>
+The site is built using Hugo which will serve as the first topic to explore for the blog. In this change log style post I am taking a page from Simon Willison who has suggested blogging in bite size chunks and starting with TIL posts.</description>
+    </item>
+    
+    <item>
+      <title>Profile</title>
+      <link>https://nightnoon.org/posts/profile/</link>
+      <pubDate>Sun, 09 Oct 2022 11:49:57 -0700</pubDate>
+      
+      <guid>https://nightnoon.org/posts/profile/</guid>
+      <description>About the Author 👋 Hi! Thanks for reading! I am a software engineer with a passion for data systems and supporting people in making use of data. I&amp;rsquo;ve worked in R&amp;amp;D science, manufacturing, and healthcare. I love learning new domains, but I still get the most satisfaction out of what got me into software engineering: the look on someone&amp;rsquo;s face when you automate a part of their job that they hated doing or didn&amp;rsquo;t know how to do.</description>
     </item>
     
   </channel>
