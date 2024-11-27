@@ -33,10 +33,10 @@ The best part about about jar is that it is the first bored activity. Next time 
     
     <item>
       <title>Recently I Learned</title>
-      <link>https://nightnoon.org/posts/inception/</link>
+      <link>https://nightnoon.org/posts/inception/inception/</link>
       <pubDate>Mon, 26 Dec 2022 10:39:35 -0800</pubDate>
       
-      <guid>https://nightnoon.org/posts/inception/</guid>
+      <guid>https://nightnoon.org/posts/inception/inception/</guid>
       <description>Welcome, I am using this blog to explore my interests. Anything that excites me enough to keep me up into the wee hours tinkering is fare play for the blog. Hence the title NightNoon, as in &amp;ldquo;Should I go to bed? No! It&amp;rsquo;s barely night noon.&amp;rdquo;
 The site is built using Hugo which will serve as the first topic to explore for the blog. In this change log style post I am taking a page from Simon Willison who has suggested blogging in bite size chunks and starting with TIL posts.</description>
     </item>

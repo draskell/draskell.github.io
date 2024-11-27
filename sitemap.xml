@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nightnoon.org/posts/bass-permutations/bass-permutations/</loc>
-    <lastmod>2023-01-06T20:10:37-08:00</lastmod>
-  </url><url>
     <loc>https://nightnoon.org/categories/</loc>
+    <lastmod>2024-11-19T10:39:35-08:00</lastmod>
+  </url><url>
+    <loc>https://nightnoon.org/tags/cooking/</loc>
+    <lastmod>2024-11-19T10:39:35-08:00</lastmod>
+  </url><url>
+    <loc>https://nightnoon.org/categories/cooking/</loc>
+    <lastmod>2024-11-19T10:39:35-08:00</lastmod>
+  </url><url>
+    <loc>https://nightnoon.org/posts/turkey/</loc>
+    <lastmod>2024-11-19T10:39:35-08:00</lastmod>
+  </url><url>
+    <loc>https://nightnoon.org/</loc>
+    <lastmod>2024-11-19T10:39:35-08:00</lastmod>
+  </url><url>
+    <loc>https://nightnoon.org/posts/</loc>
+    <lastmod>2024-11-19T10:39:35-08:00</lastmod>
+  </url><url>
+    <loc>https://nightnoon.org/tags/</loc>
+    <lastmod>2024-11-19T10:39:35-08:00</lastmod>
+  </url><url>
+    <loc>https://nightnoon.org/posts/bass-permutations/bass-permutations/</loc>
     <lastmod>2023-01-06T20:10:37-08:00</lastmod>
   </url><url>
     <loc>https://nightnoon.org/tags/music/</loc>
     <lastmod>2023-01-06T20:10:37-08:00</lastmod>
   </url><url>
     <loc>https://nightnoon.org/categories/music/</loc>
-    <lastmod>2023-01-06T20:10:37-08:00</lastmod>
-  </url><url>
-    <loc>https://nightnoon.org/</loc>
-    <lastmod>2023-01-06T20:10:37-08:00</lastmod>
-  </url><url>
-    <loc>https://nightnoon.org/posts/</loc>
-    <lastmod>2023-01-06T20:10:37-08:00</lastmod>
-  </url><url>
-    <loc>https://nightnoon.org/tags/</loc>
     <lastmod>2023-01-06T20:10:37-08:00</lastmod>
   </url><url>
     <loc>https://nightnoon.org/tags/software-dev/</loc>
@@ -41,7 +50,7 @@
     <loc>https://nightnoon.org/categories/kids/</loc>
     <lastmod>2022-12-28T18:40:55-08:00</lastmod>
   </url><url>
-    <loc>https://nightnoon.org/posts/inception/</loc>
+    <loc>https://nightnoon.org/posts/inception/inception/</loc>
     <lastmod>2022-12-26T10:39:35-08:00</lastmod>
   </url><url>
     <loc>https://nightnoon.org/posts/profile/</loc>
